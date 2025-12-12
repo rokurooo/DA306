@@ -11,11 +11,11 @@ We planned to animate a car montage using Python scripting in Blender. The initi
 
 ## Usage <a name = "usage"></a>
 
-• Install the Animation.py as add-ons in blender
-• Center your model in the middle of xyz pane
+• Install the Animation.py as add-ons in blender <br>
+• Center your model in the middle of xyz pane <br>
 • If the tool bar in the right side is not open press [N]
-• Look for "Animating" in the categories then click it
+• Look for "Animating" in the categories then click it <br><br>
 
-• Click "Setup Scene" to spawn necessary things for animation
-• Adjust the size of limit cube using the slide bar
+• Click "Setup Scene" to spawn necessary things for animation <br>
+• Adjust the size of limit cube using the slide bar <br>
 • Finally click the "Animate" and done
